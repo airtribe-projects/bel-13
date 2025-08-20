@@ -28,8 +28,6 @@ const emp:Employee = new Employee("John", "Developer");
 
 emp.displayInfo()
 
-
-
 const jay:Person = new Person("jay");
 
 
